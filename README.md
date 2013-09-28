@@ -5,6 +5,7 @@ Stripe Integration with single and repeating donations
 
 
 Edit the config file in files->config.php. Put your stripe keys, emails information, etc in here.
+Put your domain in the forms.php file where indicated.
 
 To include this on a page on your website, simply paste this on the page where you want the form to appear.
 
