@@ -1,0 +1,4 @@
+#CCloadImg{position:absolute;z-index:999;}
+#CCloadImg div{display:table-cell;width:840px;height:<?=$mheight?>px;background:#fff;text-align:center;vertical-align:middle;}
+#BankloadImg{position:absolute;z-index:999;}
+#BankloadImg div{display:table-cell;width:840px;height:<?=$mheight?>px;background:#fff;text-align:center;vertical-align:middle;}

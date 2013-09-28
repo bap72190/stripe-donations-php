@@ -1,0 +1,27 @@
+{
+	"name":"vierbergenlars/simpletest",
+	"authors": [
+		{
+			"name":"Marcus Baker",
+			"homepage":"http://sourceforge.net/users/lastcraft"
+		},
+		{
+			"name":"Perrick Penet",
+			"homepage":"http://sourceforge.net/users/pp11"
+		}
+	],
+	"description":"Unit testing for PHP",
+	"keywords": [
+		"SimpleTest",
+		"unittest",
+		"test",
+		"testing"
+	],
+	"license": "LGPL",
+	"require": {
+		"php": ">=5"
+	},
+	"autoload": {
+		"classmap": [""]
+	}
+}
